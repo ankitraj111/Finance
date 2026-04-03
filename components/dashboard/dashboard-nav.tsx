@@ -105,7 +105,7 @@ export default function DashboardNav({
           </div>
           <div className="flex-1 min-w-0">
             <p className="text-xs font-semibold text-zinc-900 dark:text-zinc-100 truncate">FinancePro</p>
-            <p className="text-[10px] text-zinc-500 dark:text-zinc-400">© 2025 All rights reserved</p>
+            <p className="text-[10px] text-zinc-500 dark:text-zinc-400">© 2026 FinancePro • Built by Ankit Raj</p>
           </div>
         </div>
       </div>
